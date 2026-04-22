@@ -5,7 +5,7 @@
 
   <Description about="urn:mozilla:install-manifest">
     <em:id>lavamoonblue@palemoon-theme</em:id>
-    <em:version>2.1.1a70</em:version>
+    <em:version>2.1.1a88</em:version>
 
     <!-- Target Application this extension can install into,
          with minimum and maximum supported versions. -->
