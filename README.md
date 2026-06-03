@@ -1,30 +1,28 @@
 # LavaMoon Blue
 
-LavaMoon Blue is a pre-release Pale Moon theme maintained by Halvar.
+LavaMoon Blue is a Pale Moon fork/adaptation based on the original LavaFox / LavaFox Blue theme by Zigboom.
 
-This project is based on LavaFox V2-Blue 2.1.1 by Zigboom.
-The original LavaFox V2-Blue 2.1.1 release was distributed under the Mozilla Public License Version 1.1 (MPL 1.1).
+This fork/adaptation is developed and distributed with written permission from the original author.
 
-LavaMoon Blue continues that codebase as a cleaned-up, updated, and rebranded Pale Moon theme.
+The Pale Moon compatibility adaptation and related compatibility modifications were made by Halvar666.
 
 ## Status
 
-Pre-release.
-
-## Supported browser
-
-- Pale Moon 33.x–34.x
-
-## Credits
-
-- Original theme base: Zigboom
-- Current maintenance, cleanup, updates, and rebranding: Halvar
+This theme is still in development and should be considered a pre-release project.
 
 ## License
 
-This project is a derivative work based on LavaFox V2-Blue 2.1.1.
+LavaMoon Blue remains subject to the same license and terms as the original LavaFox / LavaFox Blue theme unless otherwise stated by the original author.
 
-The original 2.1.1 release was distributed under MPL 1.1.
-Accordingly, LavaMoon Blue continues under the Mozilla Public License Version 1.1 (MPL 1.1).
+The original license terms are included in `LICENSE.txt` and in the theme package as `READ ME  IMPORTANT.txt`.
 
-See the `LICENSE` file for details.
+## Credits
+
+Original theme:
+
+* Zigboom
+
+Pale Moon compatibility adaptation:
+
+* Halvar666
+
