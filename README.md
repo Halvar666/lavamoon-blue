@@ -1,6 +1,6 @@
 # LavaMoon Blue
 
-LavaMoon Blue is a Pale Moon fork/adaptation based on the original LavaFox / LavaFox Blue theme by Zigboom.
+LavaMoon Blue is a Pale Moon fork/adaptation based on the original LavaFox v2-Blue theme by Zigboom.
 
 This fork/adaptation is developed and distributed with written permission from the original author.
 
