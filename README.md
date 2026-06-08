@@ -8,7 +8,7 @@ The Pale Moon compatibility adaptation and related compatibility modifications w
 
 ## Status
 
-This theme is still in development and should be considered a pre-release project.
+This is the first stable Pale Moon release of LavaMoon Blue
 
 ## License
 
