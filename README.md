@@ -1,3 +1,4 @@
+![previewblue](./assets/previewblue.png)
 # LavaMoon Blue
 
 LavaMoon Blue is a Pale Moon fork/adaptation based on the original LavaFox v2-Blue theme by Zigboom.
