@@ -9,7 +9,7 @@ The Pale Moon compatibility adaptation and related compatibility modifications w
 
 ## Status
 
-This is the first stable Pale Moon release of LavaMoon Blue
+Stable Pale Moon release of LavaMoon Blue
 
 ## License
 
